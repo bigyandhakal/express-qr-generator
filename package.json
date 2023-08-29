@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1",
+    "qrcode": "^1.5.3"
+  },
+  "name": "express-qr-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigyandhakal/express-qr-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigyandhakal/express-qr-generator/issues"
+  },
+  "homepage": "https://github.com/bigyandhakal/express-qr-generator#readme"
+}
